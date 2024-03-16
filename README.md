@@ -1,4 +1,6 @@
-# 
+# Here is the video recording which states the explanation of the given program
+https://drive.google.com/file/d/1Iaie7-OPNbADta348veCM703TfM242J_/view?usp=sharing
+
 1. Tune hyperparameter and make necessary addition to the baseline model to improve validation accuracy
 and reduce validation loss.
 2. Provide logical description of which steps lead to improved response and what was its impact on
